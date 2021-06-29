@@ -1,4 +1,6 @@
 ### [Summary & portfolio](https://european.dev/)
+
+🛠 #BUIDL-ing [StreamFlow Finance](https://github.com/StreamFlow-Finance/)
 <!--
 **imprfekt/imprfekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
