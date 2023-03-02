@@ -1,6 +1,4 @@
-### [Summary & portfolio](https://european.dev/)
-
-🛠 #BUIDL-ing [StreamFlow Finance](https://github.com/StreamFlow-Finance/)
+🛠 Helping wide crypto adoption by streamlining teams' token ops with [Streamflow](https://github.com/Streamflow-Finance/).
 <!--
 **imprfekt/imprfekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
